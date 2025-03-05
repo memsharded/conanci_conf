@@ -1,0 +1,22 @@
+{
+    "remotes": [
+    {
+      "name": "products",
+      "url": "https://conandev.jfrog.io/artifactory/api/conan/conanci_products",
+      "verify_ssl": true,
+      "disabled": true
+    },
+    {
+      "name": "develop",
+      "url": "https://conandev.jfrog.io/artifactory/api/conan/conanci_develop",
+      "verify_ssl": true,
+      "disabled": true
+    },
+    {
+      "name": "packages",
+      "url": "https://conandev.jfrog.io/artifactory/api/conan/conanci_packages",
+      "verify_ssl": true,
+      "disabled": true
+    }
+    ]
+}
